@@ -2,21 +2,7 @@
 
 #include <time.h>
 
-#include <stdio.h>
-
-
-
-/**
- *
- * * main -print the string in put function
- *
- * * Description: using the main function
- *
- * * this program print "if statement of n value randomly picked"
- *
- * * Return: 0
- *
- * */
+#include <stdout.h>
 
 int main(void)
 
